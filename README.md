@@ -1,6 +1,4 @@
-## Curso: FullStack
-Desafio 01 – JavaScript
-Prof. Márcio Ferreira**
+## Curso: FullStack Desafio 01 – JavaScript Prof. Márcio Ferreira
 
 **Praticando com variáveis e operadores**
 Antes de fazer o exercício abaixo, estude a documentação no link abaixo: 
