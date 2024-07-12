@@ -6,7 +6,8 @@ Prof. Márcio Ferreira**
 
 **Praticando com variáveis e operadores**
 Antes de fazer o exercício abaixo, estude a documentação no link abaixo: 
-[!Link da Documentação](https://www.w3schools.com/js/js_operators.asp)
+
+[Link da Documentação](https://www.w3schools.com/js/js_operators.asp)
 
 #
 
