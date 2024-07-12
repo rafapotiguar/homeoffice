@@ -43,3 +43,16 @@ de j por k e armazene o resultado em resto.
 10. Defina uma variável l com um valor numérico. Verifique se l é igual a 0 
 utilizando um operador de igualdade e armazene o resultado booleano em 
 igualZero.
+
+#
+
+## Skills Utilizadas
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
+
+</div>
