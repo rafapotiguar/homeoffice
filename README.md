@@ -1,8 +1,6 @@
-**Curso: FullStack
+## Curso: FullStack
 Desafio 01 – JavaScript
 Prof. Márcio Ferreira**
-
-#
 
 **Praticando com variáveis e operadores**
 Antes de fazer o exercício abaixo, estude a documentação no link abaixo: 
@@ -43,8 +41,6 @@ de j por k e armazene o resultado em resto.
 10. Defina uma variável l com um valor numérico. Verifique se l é igual a 0 
 utilizando um operador de igualdade e armazene o resultado booleano em 
 igualZero.
-
-#
 
 ## Skills Utilizadas
 <div style="display: flex; align-items: center; justify-content: space-between;">
