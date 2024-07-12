@@ -2,9 +2,13 @@
 Desafio 01 – JavaScript
 Prof. Márcio Ferreira**
 
+#
+
 **Praticando com variáveis e operadores**
 Antes de fazer o exercício abaixo, estude a documentação no link abaixo: 
 [!Link da Documentação](https://www.w3schools.com/js/js_operators.asp)
+
+#
 
 1. Crie uma variável a e uma variável b e atribua valores numéricos a elas. Calcule 
 a soma desses dois números e armazene o resultado em uma terceira variável 
